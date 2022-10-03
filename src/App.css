@@ -1,10 +1,17 @@
-.App {
-  text-align: center;
+*{
+  background-color: rgb(188, 248, 188);
+  font-size: 1em !important;
+   color: #000 !important;
+   font: normal 10px Verdana, Arial, sans-serif;
+   flex: auto;
+   margin: 10px;
+   box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.parent .input{
+  font-size: large;
+  font-family: cursive;
+  color: blue;
 }
 
 @media (prefers-reduced-motion: no-preference) {
